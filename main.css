@@ -1,0 +1,23 @@
+body{
+    background-color:#bcaaa4;
+}
+h2{
+    color: green;
+}
+
+p#heading{
+    color: red;
+    text-align:center;
+    text-decoration: underline overline ;
+    font-size: 35px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-transform: lowercase;
+    background-color: aqua;
+}
+#para1{
+    margin: 20px;
+    text-align: justify;
+    text-indent: 40px;
+
+}
